@@ -1561,70 +1561,6 @@
         "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/util.d.ts",
         "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/neo4j-driver/types/v1/graph-types.d.ts": [
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/neo4j-driver/types/v1/integer.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/util.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/neo4j-driver/types/v1/spatial-types.d.ts": [
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/neo4j-driver/types/v1/graph-types.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/neo4j-driver/types/v1/integer.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/util.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/neo4j-driver/types/v1/temporal-types.d.ts": [
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/neo4j-driver/types/v1/graph-types.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/neo4j-driver/types/v1/integer.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/util.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/neo4j-driver/types/v1/error.d.ts": [
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/util.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/neo4j-driver/types/v1/result-summary.d.ts": [
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/neo4j-driver/types/v1/integer.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/neo4j-driver/types/v1/graph-types.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/util.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/neo4j-driver/types/v1/record.d.ts": [
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/util.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/neo4j-driver/types/v1/result.d.ts": [
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/neo4j-driver/types/v1/result-summary.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/neo4j-driver/types/v1/record.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/util.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/neo4j-driver/types/v1/statement-runner.d.ts": [
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/neo4j-driver/types/v1/result.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/util.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/neo4j-driver/types/v1/transaction.d.ts": [
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/neo4j-driver/types/v1/result.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/neo4j-driver/types/v1/statement-runner.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/util.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/neo4j-driver/types/v1/session.d.ts": [
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/neo4j-driver/types/v1/transaction.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/neo4j-driver/types/v1/statement-runner.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/neo4j-driver/types/v1/result.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/neo4j-driver/types/v1/graph-types.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/util.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/neo4j-driver/types/v1/driver.d.ts": [
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/neo4j-driver/types/v1/session.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/neo4j-driver/types/v1/statement-runner.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/neo4j-driver/types/v1/error.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/neo4j-driver/types/v1/result-summary.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/util.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
       "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/neo4j-driver/types/v1/index.d.ts": [
         "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/neo4j-driver/types/v1/integer.d.ts",
         "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/neo4j-driver/types/v1/graph-types.d.ts",
@@ -1646,32 +1582,74 @@
         "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/util.d.ts",
         "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/ts3.2/util.d.ts"
       ],
+      "/home/bsimard/worspaces/perso/apollo-grand-plugin/src/commands/grand/schema-generate.ts": [
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@oclif/command/lib/index.d.ts"
+      ],
+      "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/neo4j-driver/types/v1/result-summary.d.ts": [
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/neo4j-driver/types/v1/integer.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/neo4j-driver/types/v1/graph-types.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/util.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/neo4j-driver/types/v1/driver.d.ts": [
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/neo4j-driver/types/v1/session.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/neo4j-driver/types/v1/statement-runner.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/neo4j-driver/types/v1/error.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/neo4j-driver/types/v1/result-summary.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/util.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/neo4j-driver/types/v1/result.d.ts": [
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/neo4j-driver/types/v1/result-summary.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/neo4j-driver/types/v1/record.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/util.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/neo4j-driver/types/v1/session.d.ts": [
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/neo4j-driver/types/v1/transaction.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/neo4j-driver/types/v1/statement-runner.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/neo4j-driver/types/v1/result.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/neo4j-driver/types/v1/graph-types.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/util.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/neo4j-driver/types/v1/transaction.d.ts": [
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/neo4j-driver/types/v1/result.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/neo4j-driver/types/v1/statement-runner.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/util.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/neo4j-driver/types/v1/statement-runner.d.ts": [
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/neo4j-driver/types/v1/result.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/util.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/neo4j-driver/types/v1/temporal-types.d.ts": [
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/neo4j-driver/types/v1/graph-types.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/neo4j-driver/types/v1/integer.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/util.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/neo4j-driver/types/v1/spatial-types.d.ts": [
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/neo4j-driver/types/v1/graph-types.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/neo4j-driver/types/v1/integer.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/util.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/neo4j-driver/types/v1/graph-types.d.ts": [
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/neo4j-driver/types/v1/integer.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/util.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/neo4j-driver/types/v1/error.d.ts": [
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/util.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/neo4j-driver/types/v1/record.d.ts": [
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/util.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
       "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@oclif/parser/lib/args.d.ts": [
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/util.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@oclif/parser/lib/alphabet.d.ts": [
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/util.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@oclif/parser/lib/flags.d.ts": [
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@oclif/parser/lib/alphabet.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/util.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@oclif/parser/lib/metadata.d.ts": [
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/util.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@oclif/parser/lib/parse.d.ts": [
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@oclif/parser/lib/args.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@oclif/parser/lib/flags.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@oclif/parser/lib/metadata.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/util.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@oclif/parser/lib/help.d.ts": [
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@oclif/parser/lib/flags.d.ts",
         "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/util.d.ts",
         "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/ts3.2/util.d.ts"
       ],
@@ -1683,44 +1661,39 @@
         "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/util.d.ts",
         "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/ts3.2/util.d.ts"
       ],
+      "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@oclif/command/lib/command.d.ts": [
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@oclif/config/lib/index.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@oclif/parser/lib/index.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@oclif/command/lib/flags.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/util.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@oclif/command/lib/index.d.ts": [
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@oclif/command/lib/command.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@oclif/command/lib/flags.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@oclif/command/lib/main.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/util.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/home/bsimard/worspaces/perso/apollo-grand-plugin/src/commands/grand/typescript-generate.ts": [
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@oclif/command/lib/index.d.ts"
+      ],
+      "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@oclif/command/lib/main.d.ts": [
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@oclif/config/lib/index.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@oclif/command/lib/index.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/util.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@oclif/command/lib/flags.d.ts": [
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@oclif/config/lib/index.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@oclif/parser/lib/index.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@oclif/parser/lib/flags.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/util.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
       "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@oclif/config/lib/command.d.ts": [
         "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@oclif/parser/lib/index.d.ts",
         "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@oclif/config/lib/index.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/util.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@oclif/config/lib/hooks.d.ts": [
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@oclif/config/lib/index.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/util.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@oclif/config/lib/pjson.d.ts": [
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/util.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@oclif/config/lib/manifest.d.ts": [
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@oclif/config/lib/command.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/util.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@oclif/config/lib/topic.d.ts": [
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/util.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@oclif/config/lib/plugin.d.ts": [
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@oclif/config/lib/command.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@oclif/config/lib/manifest.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@oclif/config/lib/pjson.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@oclif/config/lib/topic.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/util.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@oclif/config/lib/config.d.ts": [
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@oclif/config/lib/command.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@oclif/config/lib/hooks.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@oclif/config/lib/pjson.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@oclif/config/lib/plugin.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@oclif/config/lib/topic.d.ts",
         "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/util.d.ts",
         "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/ts3.2/util.d.ts"
       ],
@@ -1735,240 +1708,71 @@
         "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/util.d.ts",
         "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@oclif/command/lib/flags.d.ts": [
+      "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@oclif/config/lib/hooks.d.ts": [
         "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@oclif/config/lib/index.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@oclif/parser/lib/index.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/util.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@oclif/config/lib/config.d.ts": [
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@oclif/config/lib/command.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@oclif/config/lib/hooks.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@oclif/config/lib/pjson.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@oclif/config/lib/plugin.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@oclif/config/lib/topic.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/util.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@oclif/config/lib/plugin.d.ts": [
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@oclif/config/lib/command.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@oclif/config/lib/manifest.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@oclif/config/lib/pjson.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@oclif/config/lib/topic.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/util.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@oclif/config/lib/manifest.d.ts": [
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@oclif/config/lib/command.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/util.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@oclif/parser/lib/parse.d.ts": [
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@oclif/parser/lib/args.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@oclif/parser/lib/flags.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@oclif/parser/lib/metadata.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/util.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@oclif/parser/lib/alphabet.d.ts": [
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/util.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@oclif/parser/lib/flags.d.ts": [
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@oclif/parser/lib/alphabet.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/util.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@oclif/parser/lib/help.d.ts": [
         "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@oclif/parser/lib/flags.d.ts",
         "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/util.d.ts",
         "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@oclif/command/lib/command.d.ts": [
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@oclif/config/lib/index.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@oclif/parser/lib/index.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@oclif/command/lib/flags.d.ts",
+      "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@oclif/parser/lib/metadata.d.ts": [
         "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/util.d.ts",
         "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@oclif/command/lib/main.d.ts": [
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@oclif/config/lib/index.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@oclif/command/lib/index.d.ts",
+      "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@oclif/config/lib/pjson.d.ts": [
         "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/util.d.ts",
         "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@oclif/command/lib/index.d.ts": [
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@oclif/command/lib/command.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@oclif/command/lib/flags.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@oclif/command/lib/main.d.ts",
+      "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@oclif/config/lib/topic.d.ts": [
         "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/util.d.ts",
         "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/home/bsimard/worspaces/perso/apollo-grand-plugin/src/commands/grand/schema-generate.ts": [
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@oclif/command/lib/index.d.ts"
       ],
       "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/globals.d.ts": [
         "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/util.d.ts",
         "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/ts3.2/util.d.ts"
       ],
       "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/assert.d.ts": [
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/util.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/async_hooks.d.ts": [
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/util.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/buffer.d.ts": [
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/util.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/child_process.d.ts": [
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/events.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/stream.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/net.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/util.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/cluster.d.ts": [
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/child_process.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/events.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/net.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/util.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/console.d.ts": [
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/util.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/constants.d.ts": [
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/util.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/crypto.d.ts": [
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/stream.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/util.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/dgram.d.ts": [
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/net.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/dns.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/events.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/util.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/dns.d.ts": [
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/util.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/domain.d.ts": [
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/events.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/util.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/events.d.ts": [
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/util.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/fs.d.ts": [
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/stream.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/events.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/url.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/util.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/http.d.ts": [
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/events.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/net.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/stream.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/url.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/util.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/http2.d.ts": [
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/events.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/fs.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/net.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/stream.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/tls.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/url.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/http.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/util.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/https.d.ts": [
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/tls.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/events.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/http.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/url.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/util.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/inspector.d.ts": [
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/events.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/util.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/module.d.ts": [
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/util.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/net.d.ts": [
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/stream.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/events.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/dns.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/util.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/os.d.ts": [
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/util.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/path.d.ts": [
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/util.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/perf_hooks.d.ts": [
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/async_hooks.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/util.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/process.d.ts": [
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/util.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/punycode.d.ts": [
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/util.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/querystring.d.ts": [
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/util.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/readline.d.ts": [
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/events.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/stream.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/util.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/repl.d.ts": [
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/readline.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/vm.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/util.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/stream.d.ts": [
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/events.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/util.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/string_decoder.d.ts": [
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/util.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/timers.d.ts": [
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/util.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/tls.d.ts": [
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/crypto.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/dns.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/net.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/stream.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/util.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/trace_events.d.ts": [
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/util.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/tty.d.ts": [
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/net.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/util.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/url.d.ts": [
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/querystring.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/util.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/util.d.ts": [
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/v8.d.ts": [
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/util.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/vm.d.ts": [
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/util.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/worker_threads.d.ts": [
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/events.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/stream.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/util.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/zlib.d.ts": [
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/stream.d.ts",
         "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/util.d.ts",
         "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/ts3.2/util.d.ts"
       ],
@@ -2015,32 +1819,17 @@
         "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/zlib.d.ts",
         "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/ts3.2/util.d.ts": [
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/util.d.ts"
-      ],
-      "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/ts3.2/globals.d.ts": [
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/globals.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/util.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
       "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/ts3.2/index.d.ts": [
         "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/base.d.ts",
         "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/ts3.2/util.d.ts",
         "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/ts3.2/globals.d.ts",
         "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/util.d.ts"
       ],
-      "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/caseless/index.d.ts": [
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/util.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/form-data/index.d.ts": [
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/stream.d.ts",
+      "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/nock/index.d.ts": [
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/fs.d.ts",
         "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/http.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/url.d.ts",
         "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/ts3.2/index.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/util.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/tough-cookie/index.d.ts": [
         "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/util.d.ts",
         "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/ts3.2/util.d.ts"
       ],
@@ -2065,17 +1854,376 @@
         "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/util.d.ts",
         "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/home/bsimard/worspaces/perso/apollo-grand-plugin/src/commands/grand/typescript-generate.ts": [
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@oclif/command/lib/index.d.ts"
-      ],
-      "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/chai/index.d.ts": [
+      "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/form-data/index.d.ts": [
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/stream.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/http.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/ts3.2/index.d.ts",
         "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/util.d.ts",
         "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/common/common.d.ts": [
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/index.d.ts",
+      "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/async_hooks.d.ts": [
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/util.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/perf_hooks.d.ts": [
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/async_hooks.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/util.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/buffer.d.ts": [
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/util.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/child_process.d.ts": [
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/events.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/stream.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/net.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/util.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/cluster.d.ts": [
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/child_process.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/events.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/net.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/util.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/console.d.ts": [
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/util.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/constants.d.ts": [
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/util.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/crypto.d.ts": [
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/stream.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/util.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/tls.d.ts": [
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/crypto.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/dns.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/net.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/stream.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/util.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/https.d.ts": [
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/tls.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/events.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/http.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/url.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/util.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/http2.d.ts": [
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/events.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/fs.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/net.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/stream.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/tls.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/url.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/http.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/util.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/dgram.d.ts": [
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/net.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/dns.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/events.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/util.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/dns.d.ts": [
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/util.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/net.d.ts": [
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/stream.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/events.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/dns.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/util.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/tty.d.ts": [
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/net.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/util.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/http.d.ts": [
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/events.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/net.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/stream.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/url.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/util.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/domain.d.ts": [
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/events.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/util.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/events.d.ts": [
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/util.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/worker_threads.d.ts": [
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/events.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/stream.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/util.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/stream.d.ts": [
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/events.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/util.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/zlib.d.ts": [
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/stream.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/util.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/readline.d.ts": [
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/events.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/stream.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/util.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/repl.d.ts": [
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/readline.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/vm.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/util.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/fs.d.ts": [
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/stream.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/events.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/url.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/util.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/inspector.d.ts": [
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/events.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/util.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/module.d.ts": [
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/util.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/os.d.ts": [
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/util.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/path.d.ts": [
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/util.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/process.d.ts": [
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/util.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/punycode.d.ts": [
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/util.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/querystring.d.ts": [
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/util.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/url.d.ts": [
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/querystring.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/util.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/string_decoder.d.ts": [
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/util.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/timers.d.ts": [
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/util.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/trace_events.d.ts": [
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/util.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/util.d.ts": [
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/sinon/ts3.1/index.d.ts": [
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/util.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/mocha/index.d.ts": [
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/util.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/index.d.ts": [
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/common/common.d.ts",
         "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/common/array.d.ts",
         "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/common/collection.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/common/date.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/common/function.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/common/lang.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/common/math.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/common/number.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/common/object.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/common/seq.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/common/string.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/common/util.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/util.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/common/util.d.ts": [
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/index.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/common/common.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/common/array.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/common/collection.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/common/date.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/common/function.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/common/lang.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/common/math.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/common/number.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/common/object.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/common/seq.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/common/string.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/util.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/common/string.d.ts": [
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/index.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/common/common.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/common/array.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/common/collection.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/common/date.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/common/function.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/common/lang.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/common/math.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/common/number.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/common/object.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/common/seq.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/common/util.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/util.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/common/seq.d.ts": [
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/index.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/common/common.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/common/array.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/common/collection.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/common/date.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/common/function.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/common/lang.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/common/math.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/common/number.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/common/object.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/common/string.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/common/util.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/util.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/common/object.d.ts": [
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/index.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/common/common.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/common/array.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/common/collection.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/common/date.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/common/function.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/common/lang.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/common/math.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/common/number.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/common/seq.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/common/string.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/common/util.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/util.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/common/number.d.ts": [
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/index.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/common/common.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/common/array.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/common/collection.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/common/date.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/common/function.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/common/lang.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/common/math.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/common/object.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/common/seq.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/common/string.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/common/util.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/util.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/common/math.d.ts": [
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/index.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/common/common.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/common/array.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/common/collection.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/common/date.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/common/function.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/common/lang.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/common/number.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/common/object.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/common/seq.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/common/string.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/common/util.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/util.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/common/lang.d.ts": [
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/index.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/common/common.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/common/array.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/common/collection.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/common/date.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/common/function.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/common/math.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/common/number.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/common/object.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/common/seq.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/common/string.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/common/util.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/util.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/common/function.d.ts": [
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/index.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/common/common.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/common/array.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/common/collection.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/common/date.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/common/lang.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/common/math.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/common/number.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/common/object.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/common/seq.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/common/string.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/common/util.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/util.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/common/date.d.ts": [
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/index.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/common/common.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/common/array.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/common/collection.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/common/function.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/common/lang.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/common/math.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/common/number.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/common/object.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/common/seq.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/common/string.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/common/util.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/util.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/common/collection.d.ts": [
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/index.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/common/common.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/common/array.d.ts",
         "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/common/date.d.ts",
         "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/common/function.d.ts",
         "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/common/lang.d.ts",
@@ -2104,168 +2252,8 @@
         "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/util.d.ts",
         "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/common/collection.d.ts": [
+      "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/common/common.d.ts": [
         "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/index.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/common/common.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/common/array.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/common/date.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/common/function.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/common/lang.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/common/math.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/common/number.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/common/object.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/common/seq.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/common/string.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/common/util.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/util.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/common/date.d.ts": [
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/index.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/common/common.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/common/array.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/common/collection.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/common/function.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/common/lang.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/common/math.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/common/number.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/common/object.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/common/seq.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/common/string.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/common/util.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/util.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/common/function.d.ts": [
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/index.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/common/common.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/common/array.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/common/collection.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/common/date.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/common/lang.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/common/math.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/common/number.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/common/object.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/common/seq.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/common/string.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/common/util.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/util.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/common/lang.d.ts": [
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/index.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/common/common.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/common/array.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/common/collection.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/common/date.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/common/function.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/common/math.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/common/number.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/common/object.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/common/seq.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/common/string.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/common/util.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/util.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/common/math.d.ts": [
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/index.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/common/common.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/common/array.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/common/collection.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/common/date.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/common/function.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/common/lang.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/common/number.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/common/object.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/common/seq.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/common/string.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/common/util.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/util.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/common/number.d.ts": [
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/index.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/common/common.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/common/array.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/common/collection.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/common/date.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/common/function.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/common/lang.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/common/math.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/common/object.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/common/seq.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/common/string.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/common/util.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/util.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/common/object.d.ts": [
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/index.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/common/common.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/common/array.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/common/collection.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/common/date.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/common/function.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/common/lang.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/common/math.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/common/number.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/common/seq.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/common/string.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/common/util.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/util.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/common/seq.d.ts": [
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/index.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/common/common.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/common/array.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/common/collection.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/common/date.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/common/function.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/common/lang.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/common/math.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/common/number.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/common/object.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/common/string.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/common/util.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/util.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/common/string.d.ts": [
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/index.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/common/common.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/common/array.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/common/collection.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/common/date.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/common/function.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/common/lang.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/common/math.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/common/number.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/common/object.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/common/seq.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/common/util.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/util.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/common/util.d.ts": [
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/index.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/common/common.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/common/array.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/common/collection.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/common/date.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/common/function.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/common/lang.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/common/math.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/common/number.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/common/object.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/common/seq.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/common/string.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/util.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/index.d.ts": [
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/common/common.d.ts",
         "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/common/array.d.ts",
         "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/common/collection.d.ts",
         "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/common/date.d.ts",
@@ -2280,19 +2268,31 @@
         "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/util.d.ts",
         "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/mocha/index.d.ts": [
+      "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/chai/index.d.ts": [
         "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/util.d.ts",
         "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/nock/index.d.ts": [
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/fs.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/http.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/url.d.ts",
-        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/ts3.2/index.d.ts",
+      "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/tough-cookie/index.d.ts": [
         "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/util.d.ts",
         "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/sinon/ts3.1/index.d.ts": [
+      "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/caseless/index.d.ts": [
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/util.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/ts3.2/globals.d.ts": [
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/globals.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/util.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/ts3.2/util.d.ts": [
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/util.d.ts"
+      ],
+      "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/vm.d.ts": [
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/util.d.ts",
+        "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/v8.d.ts": [
         "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/util.d.ts",
         "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/node/ts3.2/util.d.ts"
       ]
