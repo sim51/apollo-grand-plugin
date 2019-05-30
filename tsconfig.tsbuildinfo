@@ -466,7 +466,7 @@
         "signature": "14838839a3221bccc3de6092e2130531e4b810f0474a8ba78ffd1de5596fa25b"
       },
       "/home/bsimard/worspaces/perso/apollo-grand-plugin/src/commands/grand/typescript-generate.ts": {
-        "version": "18752d3a60f0bad284f927adaf2f00b5ecfc4e7b829997dbede638a09a812aa2",
+        "version": "8627e9f9ee8c33b7379e0932c9d2251c6063d0ef6fc7e387c9012ce5c01bb7b5",
         "signature": "32fa0d8b85f25ae785508940d101ad1fe69e7e5d7aea0bd2345c8277c03cd7f5"
       },
       "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/chai/index.d.ts": {
@@ -2414,6 +2414,7 @@
       "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/tough-cookie/index.d.ts",
       "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/request/index.d.ts",
       "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/request-promise-native/index.d.ts",
+      "/home/bsimard/worspaces/perso/apollo-grand-plugin/src/commands/grand/typescript-generate.ts",
       "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/chai/index.d.ts",
       "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/common/common.d.ts",
       "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/common/array.d.ts",
@@ -2430,8 +2431,7 @@
       "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/lodash/ts3.1/index.d.ts",
       "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/mocha/index.d.ts",
       "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/nock/index.d.ts",
-      "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/sinon/ts3.1/index.d.ts",
-      "/home/bsimard/worspaces/perso/apollo-grand-plugin/src/commands/grand/typescript-generate.ts"
+      "/home/bsimard/worspaces/perso/apollo-grand-plugin/node_modules/@types/sinon/ts3.1/index.d.ts"
     ]
   },
   "version": "3.4.5"

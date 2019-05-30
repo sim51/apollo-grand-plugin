@@ -1,4 +1,4 @@
-= apollo-grand-plugin
+# apollo-grand-plugin
 
 GRAND Stack plugin for Apollo CLI
 
@@ -7,22 +7,22 @@ GRAND Stack plugin for Apollo CLI
 [![Downloads/week](https://img.shields.io/npm/dw/apollo-grand-plugin.svg)](https://npmjs.org/package/apollo-grand-plugin)
 [![License](https://img.shields.io/npm/l/apollo-grand-plugin.svg)](https://github.com/sim51/apollo-grand-plugin/blob/master/package.json)
 
-== How to use it
+## How to use it
 
 First you need to have https://www.npmjs.com/package/apollo[Apollo CLI] installed : `npm install -g apollo`
 Then you you can run this command to install this plugin : `apollo plugins:install https://github.com/sim51/apollo-grand-plugin`
 
-=== Generate the schema
+### Generate the schema
 
 You can generate the Graphql schema from a neo4j instance just by executing this command :
 
 `apollo grand:schema-generate -u bolt://localhost:7687 -l neo4j -p admin`
 
-The schema will be displayed in the console. 
+The schema will be displayed in the console.
 
-== Todo
+## Todo
 
-=== Schema Generator
+### Schema Generator
 
 * Check the name of properties for relationship in & out
 * Handle rels that have many nodelabels
@@ -30,4 +30,4 @@ The schema will be displayed in the console.
 * Scalar for date and Geo point ?
 * Add the file location for writting the schema
 
-=== Crud generator
+### Crud generator
